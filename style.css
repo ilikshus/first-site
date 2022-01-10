@@ -1,8 +1,7 @@
 body {
   font-family: 'Saira Condensed', sans-serif;
   text-align:center;
-  background:url("https://i.etsystatic.com/28921914/r/il/703fe4/3295529445/il_340x270.3295529445_96gr.jpg") no-repeat fixed center;
-  background-size: cover;
+  background-color:#36454F;
 }
 
 img {
